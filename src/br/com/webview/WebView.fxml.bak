@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.web.*?>
+
+<StackPane prefHeight="672.0" prefWidth="957.0" xmlns:fx="http://javafx.com/fxml" fx:controller="br.com.webview.BrowserTeste">
+  <children>
+    <WebView id="webview" fx:id="webview1" prefHeight="200.0" prefWidth="200.0" />
+  </children>
+</StackPane>
